@@ -26,7 +26,7 @@ After editing the two file with your data and put them in the right place on you
 be sure to have apache well configured on the server because each time you want to see your WATCH you need to reach the folder where devwatch.php be.
 For example http://mywebsite.com/folder/devwatch.php
 
-finally you can make that wtch a rss using this amazing web site:
+finally you can make that watch a rss using this amazing web site:
 
 [Page2Rss http://page2rss.com/](http://page2rss.com/)
 
@@ -34,7 +34,7 @@ you need to pass as a paramether the url of the index.html page that the script 
 For example http://mywebsite.com/folder/index.html
 
 ##Usage
-Open your rssReader as feedly and past the link genrated from Page2Rss now you have a perfect feed from your watch in deviant art.
+Open your rssReader as feedly and past the link generated from Page2Rss now you have a perfect feed from your watch in deviant art.
 
 ##Configuration
 
